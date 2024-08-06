@@ -65,15 +65,7 @@ print("R-squared (R2):", r2_train)
 print("Mean Absolute Error (MAE):", mae_train)
 print("Explained Variance Score:", explained_var_train)
 
-# For test data, you need the actual target values to compute evaluation metrics
-# If you have true target values for the test data, compute metrics similarly
-# For example:
-# y_test = pd.read_csv("y_test.csv")['SalePrice']
-# mse_test = mean_squared_error(y_test, y_test_pred)
-# r2_test = r2_score(y_test, y_test_pred)
-# mae_test = mean_absolute_error(y_test, y_test_pred)
-# explained_var_test = explained_variance_score(y_test, y_test_pred)
-# print("Test Data Evaluation:")
+
 # print("Mean Squared Error (MSE):", mse_test)
 # print("R-squared (R2):", r2_test)
 # print("Mean Absolute Error (MAE):", mae_test)
