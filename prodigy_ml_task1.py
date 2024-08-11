@@ -66,7 +66,3 @@ print("Mean Absolute Error (MAE):", mae_train)
 print("Explained Variance Score:", explained_var_train)
 
 
-# print("Mean Squared Error (MSE):", mse_test)
-# print("R-squared (R2):", r2_test)
-# print("Mean Absolute Error (MAE):", mae_test)
-# print("Explained Variance Score:", explained_var_test)
